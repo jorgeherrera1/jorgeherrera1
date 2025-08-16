@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jorgeherrera1
 - 👀 I’m interested in all types of technologies, although I like web development a lot
-- 🌱 I’m currently learning Svelte
+- 🌱 I’m currently playing with AI
 - 📫 You can send me a message on Twitter @jorgeherrera1
 
 <!---
